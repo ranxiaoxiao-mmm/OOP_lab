@@ -1,0 +1,1 @@
+  -LD:/Archive/subject/two_two/OOP/lab/lab8/lab8/rnd/3rd/lib  -lsfml-audio -lsfml-graphics -lsfml-network -lsfml-system -lsfml-window -lOpenAL::OpenAL -lgdi32 -lsfml-system -lwinmm -lws2_32 -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32 

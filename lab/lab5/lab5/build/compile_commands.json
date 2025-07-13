@@ -1,0 +1,14 @@
+[
+{
+  "directory": "D:/Archive/subject/two two/OOP/lab/lab5/lab5/build",
+  "command": "C:/mingw64/bin/g++.exe  @CMakeFiles/bignum.dir/includes_CXX.rsp -g -o CMakeFiles/bignum.dir/bignum.cc.obj -c \"D:/Archive/subject/two two/OOP/lab/lab5/lab5/bignum.cc\"",
+  "file": "D:/Archive/subject/two two/OOP/lab/lab5/lab5/bignum.cc",
+  "output": "CMakeFiles/bignum.dir/bignum.cc.obj"
+},
+{
+  "directory": "D:/Archive/subject/two two/OOP/lab/lab5/lab5/build",
+  "command": "C:/mingw64/bin/g++.exe  @CMakeFiles/bignum.dir/includes_CXX.rsp -g -o CMakeFiles/bignum.dir/bignum_test.cc.obj -c \"D:/Archive/subject/two two/OOP/lab/lab5/lab5/bignum_test.cc\"",
+  "file": "D:/Archive/subject/two two/OOP/lab/lab5/lab5/bignum_test.cc",
+  "output": "CMakeFiles/bignum.dir/bignum_test.cc.obj"
+}
+]

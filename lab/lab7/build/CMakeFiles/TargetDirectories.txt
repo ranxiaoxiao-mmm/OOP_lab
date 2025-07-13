@@ -1,0 +1,5 @@
+D:/Archive/subject/two two/OOP/lab/lab7/build/CMakeFiles/cal.dir
+D:/Archive/subject/two two/OOP/lab/lab7/build/CMakeFiles/cal_test.dir
+D:/Archive/subject/two two/OOP/lab/lab7/build/CMakeFiles/test.dir
+D:/Archive/subject/two two/OOP/lab/lab7/build/CMakeFiles/edit_cache.dir
+D:/Archive/subject/two two/OOP/lab/lab7/build/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,32 @@
+[
+{
+  "directory": "D:/Archive/subject/two_two/OOP/lab/lab8/lab8/review/build",
+  "command": "C:/mingw64/bin/g++.exe   -g -o CMakeFiles/static.dir/1static.cpp.obj -c D:/Archive/subject/two_two/OOP/lab/lab8/lab8/review/1static.cpp",
+  "file": "D:/Archive/subject/two_two/OOP/lab/lab8/lab8/review/1static.cpp",
+  "output": "CMakeFiles/static.dir/1static.cpp.obj"
+},
+{
+  "directory": "D:/Archive/subject/two_two/OOP/lab/lab8/lab8/review/build",
+  "command": "C:/mingw64/bin/g++.exe   -g -o CMakeFiles/inherit.dir/2inherit.cpp.obj -c D:/Archive/subject/two_two/OOP/lab/lab8/lab8/review/2inherit.cpp",
+  "file": "D:/Archive/subject/two_two/OOP/lab/lab8/lab8/review/2inherit.cpp",
+  "output": "CMakeFiles/inherit.dir/2inherit.cpp.obj"
+},
+{
+  "directory": "D:/Archive/subject/two_two/OOP/lab/lab8/lab8/review/build",
+  "command": "C:/mingw64/bin/g++.exe   -g -o CMakeFiles/sample.dir/3sample.cpp.obj -c D:/Archive/subject/two_two/OOP/lab/lab8/lab8/review/3sample.cpp",
+  "file": "D:/Archive/subject/two_two/OOP/lab/lab8/lab8/review/3sample.cpp",
+  "output": "CMakeFiles/sample.dir/3sample.cpp.obj"
+},
+{
+  "directory": "D:/Archive/subject/two_two/OOP/lab/lab8/lab8/review/build",
+  "command": "C:/mingw64/bin/g++.exe   -g -o CMakeFiles/date.dir/4date.cpp.obj -c D:/Archive/subject/two_two/OOP/lab/lab8/lab8/review/4date.cpp",
+  "file": "D:/Archive/subject/two_two/OOP/lab/lab8/lab8/review/4date.cpp",
+  "output": "CMakeFiles/date.dir/4date.cpp.obj"
+},
+{
+  "directory": "D:/Archive/subject/two_two/OOP/lab/lab8/lab8/review/build",
+  "command": "C:/mingw64/bin/g++.exe   -g -o CMakeFiles/stack.dir/5stack.cpp.obj -c D:/Archive/subject/two_two/OOP/lab/lab8/lab8/review/5stack.cpp",
+  "file": "D:/Archive/subject/two_two/OOP/lab/lab8/lab8/review/5stack.cpp",
+  "output": "CMakeFiles/stack.dir/5stack.cpp.obj"
+}
+]

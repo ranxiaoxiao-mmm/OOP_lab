@@ -1,0 +1,4 @@
+D:/Archive/subject/two two/OOP/lab/build/CMakeFiles/E2_1.dir
+D:/Archive/subject/two two/OOP/lab/build/CMakeFiles/prime.dir
+D:/Archive/subject/two two/OOP/lab/build/CMakeFiles/edit_cache.dir
+D:/Archive/subject/two two/OOP/lab/build/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,3 @@
+D:/Archive/subject/two two/OOP/lab/lab6/lab6/build/_deps/gtest-subbuild/CMakeFiles/gtest-populate.dir
+D:/Archive/subject/two two/OOP/lab/lab6/lab6/build/_deps/gtest-subbuild/CMakeFiles/edit_cache.dir
+D:/Archive/subject/two two/OOP/lab/lab6/lab6/build/_deps/gtest-subbuild/CMakeFiles/rebuild_cache.dir

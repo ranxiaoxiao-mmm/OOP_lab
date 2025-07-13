@@ -1,0 +1,20 @@
+[
+{
+  "directory": "D:/Archive/subject/two_two/OOP/lab/lab8/lab8/rnd/build",
+  "command": "C:/mingw64/bin/g++.exe  @CMakeFiles/gui.dir/includes_CXX.rsp -g -o CMakeFiles/gui.dir/window.cpp.obj -c D:/Archive/subject/two_two/OOP/lab/lab8/lab8/rnd/window.cpp",
+  "file": "D:/Archive/subject/two_two/OOP/lab/lab8/lab8/rnd/window.cpp",
+  "output": "CMakeFiles/gui.dir/window.cpp.obj"
+},
+{
+  "directory": "D:/Archive/subject/two_two/OOP/lab/lab8/lab8/rnd/build",
+  "command": "C:/mingw64/bin/g++.exe  @CMakeFiles/gui.dir/includes_CXX.rsp -g -o CMakeFiles/gui.dir/shapes.cpp.obj -c D:/Archive/subject/two_two/OOP/lab/lab8/lab8/rnd/shapes.cpp",
+  "file": "D:/Archive/subject/two_two/OOP/lab/lab8/lab8/rnd/shapes.cpp",
+  "output": "CMakeFiles/gui.dir/shapes.cpp.obj"
+},
+{
+  "directory": "D:/Archive/subject/two_two/OOP/lab/lab8/lab8/rnd/build",
+  "command": "C:/mingw64/bin/g++.exe  @CMakeFiles/gui.dir/includes_CXX.rsp -g -o CMakeFiles/gui.dir/rnd.cpp.obj -c D:/Archive/subject/two_two/OOP/lab/lab8/lab8/rnd/rnd.cpp",
+  "file": "D:/Archive/subject/two_two/OOP/lab/lab8/lab8/rnd/rnd.cpp",
+  "output": "CMakeFiles/gui.dir/rnd.cpp.obj"
+}
+]

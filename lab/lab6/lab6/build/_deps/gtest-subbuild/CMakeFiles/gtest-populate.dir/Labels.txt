@@ -1,0 +1,14 @@
+# Target labels
+ gtest-populate
+# Source files and their labels
+D:/Archive/subject/two two/OOP/lab/lab6/lab6/build/_deps/gtest-subbuild/CMakeFiles/gtest-populate
+D:/Archive/subject/two two/OOP/lab/lab6/lab6/build/_deps/gtest-subbuild/CMakeFiles/gtest-populate.rule
+D:/Archive/subject/two two/OOP/lab/lab6/lab6/build/_deps/gtest-subbuild/CMakeFiles/gtest-populate-complete.rule
+D:/Archive/subject/two two/OOP/lab/lab6/lab6/build/_deps/gtest-subbuild/gtest-populate-prefix/src/gtest-populate-stamp/gtest-populate-build.rule
+D:/Archive/subject/two two/OOP/lab/lab6/lab6/build/_deps/gtest-subbuild/gtest-populate-prefix/src/gtest-populate-stamp/gtest-populate-configure.rule
+D:/Archive/subject/two two/OOP/lab/lab6/lab6/build/_deps/gtest-subbuild/gtest-populate-prefix/src/gtest-populate-stamp/gtest-populate-download.rule
+D:/Archive/subject/two two/OOP/lab/lab6/lab6/build/_deps/gtest-subbuild/gtest-populate-prefix/src/gtest-populate-stamp/gtest-populate-install.rule
+D:/Archive/subject/two two/OOP/lab/lab6/lab6/build/_deps/gtest-subbuild/gtest-populate-prefix/src/gtest-populate-stamp/gtest-populate-mkdir.rule
+D:/Archive/subject/two two/OOP/lab/lab6/lab6/build/_deps/gtest-subbuild/gtest-populate-prefix/src/gtest-populate-stamp/gtest-populate-patch.rule
+D:/Archive/subject/two two/OOP/lab/lab6/lab6/build/_deps/gtest-subbuild/gtest-populate-prefix/src/gtest-populate-stamp/gtest-populate-test.rule
+D:/Archive/subject/two two/OOP/lab/lab6/lab6/build/_deps/gtest-subbuild/gtest-populate-prefix/src/gtest-populate-stamp/gtest-populate-update.rule

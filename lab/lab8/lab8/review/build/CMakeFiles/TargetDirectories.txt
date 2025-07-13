@@ -1,0 +1,7 @@
+D:/Archive/subject/two_two/OOP/lab/lab8/lab8/review/build/CMakeFiles/static.dir
+D:/Archive/subject/two_two/OOP/lab/lab8/lab8/review/build/CMakeFiles/inherit.dir
+D:/Archive/subject/two_two/OOP/lab/lab8/lab8/review/build/CMakeFiles/sample.dir
+D:/Archive/subject/two_two/OOP/lab/lab8/lab8/review/build/CMakeFiles/date.dir
+D:/Archive/subject/two_two/OOP/lab/lab8/lab8/review/build/CMakeFiles/stack.dir
+D:/Archive/subject/two_two/OOP/lab/lab8/lab8/review/build/CMakeFiles/edit_cache.dir
+D:/Archive/subject/two_two/OOP/lab/lab8/lab8/review/build/CMakeFiles/rebuild_cache.dir

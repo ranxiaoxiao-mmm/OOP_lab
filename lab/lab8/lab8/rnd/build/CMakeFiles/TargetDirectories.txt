@@ -1,0 +1,5 @@
+D:/Archive/subject/two_two/OOP/lab/lab8/lab8/rnd/build/CMakeFiles/gui.dir
+D:/Archive/subject/two_two/OOP/lab/lab8/lab8/rnd/build/CMakeFiles/package.dir
+D:/Archive/subject/two_two/OOP/lab/lab8/lab8/rnd/build/CMakeFiles/package_source.dir
+D:/Archive/subject/two_two/OOP/lab/lab8/lab8/rnd/build/CMakeFiles/edit_cache.dir
+D:/Archive/subject/two_two/OOP/lab/lab8/lab8/rnd/build/CMakeFiles/rebuild_cache.dir

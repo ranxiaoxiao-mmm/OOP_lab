@@ -1,0 +1,20 @@
+[
+{
+  "directory": "D:/Archive/subject/two two/OOP/lab/build",
+  "command": "C:/mingw64/bin/g++.exe   -g -std=gnu++23 -O3 -o CMakeFiles/E2_1.dir/E2_1.cc.obj -c \"D:/Archive/subject/two two/OOP/lab/lab2/E2_1.cc\"",
+  "file": "D:/Archive/subject/two two/OOP/lab/lab2/E2_1.cc",
+  "output": "CMakeFiles/E2_1.dir/E2_1.cc.obj"
+},
+{
+  "directory": "D:/Archive/subject/two two/OOP/lab/build",
+  "command": "C:/mingw64/bin/g++.exe   -g -std=gnu++23 -O3 -o CMakeFiles/prime.dir/prime.cc.obj -c \"D:/Archive/subject/two two/OOP/lab/lab2/prime.cc\"",
+  "file": "D:/Archive/subject/two two/OOP/lab/lab2/prime.cc",
+  "output": "CMakeFiles/prime.dir/prime.cc.obj"
+},
+{
+  "directory": "D:/Archive/subject/two two/OOP/lab/build",
+  "command": "C:/mingw64/bin/g++.exe   -g -std=gnu++23 -O3 -o CMakeFiles/prime.dir/prime_main.cc.obj -c \"D:/Archive/subject/two two/OOP/lab/lab2/prime_main.cc\"",
+  "file": "D:/Archive/subject/two two/OOP/lab/lab2/prime_main.cc",
+  "output": "CMakeFiles/prime.dir/prime_main.cc.obj"
+}
+]

@@ -1,0 +1,5 @@
+D:/Archive/subject/two two/OOP/lab/lab4/lab4/build/CMakeFiles/nsvector.dir
+D:/Archive/subject/two two/OOP/lab/lab4/lab4/build/CMakeFiles/nsmap.dir
+D:/Archive/subject/two two/OOP/lab/lab4/lab4/build/CMakeFiles/nsumap.dir
+D:/Archive/subject/two two/OOP/lab/lab4/lab4/build/CMakeFiles/edit_cache.dir
+D:/Archive/subject/two two/OOP/lab/lab4/lab4/build/CMakeFiles/rebuild_cache.dir

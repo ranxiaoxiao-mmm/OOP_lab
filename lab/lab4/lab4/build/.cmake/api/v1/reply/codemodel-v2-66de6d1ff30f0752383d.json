@@ -1,0 +1,78 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.25"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "nameserver",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "nsmap::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-nsmap-Debug-e205f261399311a1a70d.json",
+					"name" : "nsmap",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "nsumap::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-nsumap-Debug-290408d52f1c4e944465.json",
+					"name" : "nsumap",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "nsvector::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-nsvector-Debug-c4af1703cce288afb599.json",
+					"name" : "nsvector",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/Archive/subject/two two/OOP/lab/lab4/lab4/build",
+		"source" : "D:/Archive/subject/two two/OOP/lab/lab4/lab4"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 5
+	}
+}

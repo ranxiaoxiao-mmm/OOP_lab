@@ -1,0 +1,6 @@
+打开程序后发现CMakelist程序发生报错，观察后发现是文件后缀名不匹配导致。故对CMakelist文件做出如下修改：
+CMAkelist文件中，所有的以.cpp为后缀的文件名均更改为以.cc为后缀的文件名
+
+同时，参考前几次lab中CMakelist文件的报错信息，做出如下修改
+1、cmake_minimum_required(VERSION 3.22) --->  cmake_minimum_required(VERSION 3.25)
+2、target_compile_options(xxx PRIVATE -O3 -std=c++20)  --->  target_compile_options(xxx PUBLIC -O3 -std=c++23)

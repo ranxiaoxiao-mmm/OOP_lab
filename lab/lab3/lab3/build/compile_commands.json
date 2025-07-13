@@ -1,0 +1,8 @@
+[
+{
+  "directory": "D:/Archive/subject/two two/OOP/lab/lab3/lab3/build",
+  "command": "C:/mingw64/bin/g++.exe   -g -std=c++23 -o CMakeFiles/E211_NEW.dir/E211_NEW.CC.obj -c \"D:/Archive/subject/two two/OOP/lab/lab3/lab3/E211_NEW.CC\"",
+  "file": "D:/Archive/subject/two two/OOP/lab/lab3/lab3/E211_NEW.CC",
+  "output": "CMakeFiles/E211_NEW.dir/E211_NEW.CC.obj"
+}
+]

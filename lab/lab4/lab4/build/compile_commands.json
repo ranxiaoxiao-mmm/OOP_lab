@@ -1,0 +1,56 @@
+[
+{
+  "directory": "D:/Archive/subject/two two/OOP/lab/lab4/lab4/build",
+  "command": "C:/mingw64/bin/g++.exe   -g -O3 -std=c++23 -o CMakeFiles/nsvector.dir/nsvector.cc.obj -c \"D:/Archive/subject/two two/OOP/lab/lab4/lab4/nsvector.cc\"",
+  "file": "D:/Archive/subject/two two/OOP/lab/lab4/lab4/nsvector.cc",
+  "output": "CMakeFiles/nsvector.dir/nsvector.cc.obj"
+},
+{
+  "directory": "D:/Archive/subject/two two/OOP/lab/lab4/lab4/build",
+  "command": "C:/mingw64/bin/g++.exe   -g -O3 -std=c++23 -o CMakeFiles/nsvector.dir/nstest.cc.obj -c \"D:/Archive/subject/two two/OOP/lab/lab4/lab4/nstest.cc\"",
+  "file": "D:/Archive/subject/two two/OOP/lab/lab4/lab4/nstest.cc",
+  "output": "CMakeFiles/nsvector.dir/nstest.cc.obj"
+},
+{
+  "directory": "D:/Archive/subject/two two/OOP/lab/lab4/lab4/build",
+  "command": "C:/mingw64/bin/g++.exe   -g -O3 -std=c++23 -o CMakeFiles/nsvector.dir/split.cc.obj -c \"D:/Archive/subject/two two/OOP/lab/lab4/lab4/split.cc\"",
+  "file": "D:/Archive/subject/two two/OOP/lab/lab4/lab4/split.cc",
+  "output": "CMakeFiles/nsvector.dir/split.cc.obj"
+},
+{
+  "directory": "D:/Archive/subject/two two/OOP/lab/lab4/lab4/build",
+  "command": "C:/mingw64/bin/g++.exe   -g -O3 -std=c++23 -o CMakeFiles/nsmap.dir/nsmap.cc.obj -c \"D:/Archive/subject/two two/OOP/lab/lab4/lab4/nsmap.cc\"",
+  "file": "D:/Archive/subject/two two/OOP/lab/lab4/lab4/nsmap.cc",
+  "output": "CMakeFiles/nsmap.dir/nsmap.cc.obj"
+},
+{
+  "directory": "D:/Archive/subject/two two/OOP/lab/lab4/lab4/build",
+  "command": "C:/mingw64/bin/g++.exe   -g -O3 -std=c++23 -o CMakeFiles/nsmap.dir/nstest.cc.obj -c \"D:/Archive/subject/two two/OOP/lab/lab4/lab4/nstest.cc\"",
+  "file": "D:/Archive/subject/two two/OOP/lab/lab4/lab4/nstest.cc",
+  "output": "CMakeFiles/nsmap.dir/nstest.cc.obj"
+},
+{
+  "directory": "D:/Archive/subject/two two/OOP/lab/lab4/lab4/build",
+  "command": "C:/mingw64/bin/g++.exe   -g -O3 -std=c++23 -o CMakeFiles/nsmap.dir/split.cc.obj -c \"D:/Archive/subject/two two/OOP/lab/lab4/lab4/split.cc\"",
+  "file": "D:/Archive/subject/two two/OOP/lab/lab4/lab4/split.cc",
+  "output": "CMakeFiles/nsmap.dir/split.cc.obj"
+},
+{
+  "directory": "D:/Archive/subject/two two/OOP/lab/lab4/lab4/build",
+  "command": "C:/mingw64/bin/g++.exe   -g -O3 -std=c++23 -o CMakeFiles/nsumap.dir/nsumap.cc.obj -c \"D:/Archive/subject/two two/OOP/lab/lab4/lab4/nsumap.cc\"",
+  "file": "D:/Archive/subject/two two/OOP/lab/lab4/lab4/nsumap.cc",
+  "output": "CMakeFiles/nsumap.dir/nsumap.cc.obj"
+},
+{
+  "directory": "D:/Archive/subject/two two/OOP/lab/lab4/lab4/build",
+  "command": "C:/mingw64/bin/g++.exe   -g -O3 -std=c++23 -o CMakeFiles/nsumap.dir/nstest.cc.obj -c \"D:/Archive/subject/two two/OOP/lab/lab4/lab4/nstest.cc\"",
+  "file": "D:/Archive/subject/two two/OOP/lab/lab4/lab4/nstest.cc",
+  "output": "CMakeFiles/nsumap.dir/nstest.cc.obj"
+},
+{
+  "directory": "D:/Archive/subject/two two/OOP/lab/lab4/lab4/build",
+  "command": "C:/mingw64/bin/g++.exe   -g -O3 -std=c++23 -o CMakeFiles/nsumap.dir/split.cc.obj -c \"D:/Archive/subject/two two/OOP/lab/lab4/lab4/split.cc\"",
+  "file": "D:/Archive/subject/two two/OOP/lab/lab4/lab4/split.cc",
+  "output": "CMakeFiles/nsumap.dir/split.cc.obj"
+}
+]

@@ -1,0 +1,14 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : [],
+		"nodes" : []
+	},
+	"installers" : [],
+	"paths" : 
+	{
+		"build" : "_deps/gtest-build",
+		"source" : "D:/Archive/subject/two two/OOP/lab/lab6/build/_deps/gtest-src"
+	}
+}

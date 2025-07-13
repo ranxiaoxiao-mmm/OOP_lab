@@ -1,0 +1,24 @@
+(1)
+--->[build] c:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/14.0.1/././../../x86_64-w64-mingw32/bin/ld.exe:CMakeFiles/vec test.dir/objects.a(vec test.cpp.obj):vec test.cpp:(.rdata$.refptr. ZN4EXP610fLogMemoryE[.refptr. ZN4EXP610fLogMemoryE]+0x0): undefined reference to ExP6: :fLogMemory[build]c:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/14.0.1/../../../../x86 64-w64-mingw32/bin/ld.exe:CMakeFiles/vec test,dir/objects.a(vec test.cpp.obj):vec te
+st.cpp:
+.rdata$.refptr. ZN4EXP616cBlocksAllocatedEl.refptr. ZN4EXP616cBlocksAllocatedEl+0x0):undefined reference toEXP6:cBlocksAllocated
+[build] collect2.exe: error: ld returned 1 exit status[build] make[2]:***[CMakeFiles/vec test.dir/build.make:107:D:/Archive/subject/two two/00P/lab/lab6/lab6/bin/vec test.exe]Error 1
+[build] make[1]:***[CMakeFiles/Makefile2:139:CMakeFiles/vec test.dir/all] Error 2[build] make: *** [Makefile:146: all] Error 2[proc] 命令""C:\Program Files\CMake\bin\cmake.EXE" --build"d:/Archive/subject/two two/0OP/lab/lab6/lab6/build" --configDebug --target all -j22 --“已退出，代码为 2
+
+--->在运行的时候遇到了如上的报错，查询后了解是因为external的外部变量没有定义，于是修改了vec_test的代码，在顶部定义了这两个变量。
+
+--->namespace EXP6 {
+    // Global variables for memory monitoring
+    int fLogMemory = 0;       // Perform logging (0=no; nonzero=yes)?
+    int cBlocksAllocated = 0; // Count of blocks allocated.
+}
+
+(2)
+---> vec3(size_t size = 6) : size_{}, limit_{size} {
+        data_ = new T[size];
+        // other initialization
+        //id_ = ++seq_; 
+}
+
+---> 个人认为从id和seq设置的逻辑上，应该在此处补充id=++seq语句。但因为此处没有TODO，所以将其注释掉。
+

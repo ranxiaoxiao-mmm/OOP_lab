@@ -1,0 +1,6 @@
+CMakeList.txt
+由于在调试时遇见std空间中没有format的问题
+了解是编译器不匹配后
+修改了老师提供的CMakeList.txt文件：
+target_compile_features(E2_1 PRIVATE cxx_std_23) -> target_compile_features(E2_1 PUBLIC cxx_std_23)
+target_compile_features(prime PRIVATE cxx_std_23) -> target_compile_features(prime PUBLIC cxx_std_23)
